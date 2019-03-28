@@ -1,5 +1,7 @@
 package com.ylj;
 
+import java.util.Date;
+
 public class Test {
     private String name;
     private int age;
@@ -7,5 +9,6 @@ public class Test {
     private String sex;
     private String level;
     private String school_name;
+    private Date date;
 
 }
