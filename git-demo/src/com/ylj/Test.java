@@ -8,7 +8,11 @@ public class Test {
     private String address;
     private String school_name;
     private Date date;
+
     private String level;
 //    private String sex;
+
+//    private String level;
+
 
 }
