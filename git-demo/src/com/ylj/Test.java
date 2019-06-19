@@ -18,5 +18,6 @@ public class Test {
 
     public String becifNo;
 
+    public String power;
 
 }
