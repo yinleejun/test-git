@@ -25,4 +25,14 @@ public class Test {
 
     public String nickname;
 
+
+    public static void test3(){
+
+    }
+
+    public static void test1(){
+        test3();
+
+        test3();
+    }
 }
