@@ -21,7 +21,8 @@ public class Test {
     public String power;
     public String lab;
     
-    public void test_name;
+    public String test_name;
 
+    public String nickname;
 
 }
