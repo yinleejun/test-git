@@ -16,5 +16,7 @@ public class Test {
 
     public String mid;
 
+    public String becifNo;
+
 
 }
