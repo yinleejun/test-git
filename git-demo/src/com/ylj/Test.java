@@ -14,5 +14,7 @@ public class Test {
 
 //    private String level;
 
+    public String becifNo;
+
 
 }
