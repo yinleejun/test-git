@@ -20,6 +20,8 @@ public class Test {
 
     public String power;
     public String lab;
+    
+    public void test_name;
 
 
 }
