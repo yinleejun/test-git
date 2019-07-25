@@ -10,6 +10,18 @@ public class Test {
     private Date date;
 
     private String level;
+//    private String sex;
 
-    private String buf;
+//    private String level;
+
+    public String mid;
+
+    public String becifNo;
+
+    public String power;
+    public String lab;
+    
+
+
+
 }
