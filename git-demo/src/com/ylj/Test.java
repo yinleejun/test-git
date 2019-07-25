@@ -10,29 +10,6 @@ public class Test {
     private Date date;
 
     private String level;
-//    private String sex;
 
-//    private String level;
-
-    public String mid;
-
-    public String becifNo;
-
-    public String power;
-    public String lab;
-    
-    public String test_name;
-
-    public String nickname;
-
-
-    public static void test3(){
-
-    }
-
-    public static void test1(){
-        test3();
-
-        test3();
-    }
+    private String buf;
 }
