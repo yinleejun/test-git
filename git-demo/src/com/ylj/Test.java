@@ -22,6 +22,9 @@ public class Test {
     public String lab;
     
 
+    public void getName(){
+        
+    }
 
 
 }
