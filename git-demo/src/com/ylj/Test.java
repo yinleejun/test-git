@@ -27,6 +27,7 @@ public class Test {
         System.out.println("name =" + "zhangsan");
         System.out.println("mast-idea");
         System.out.println("mast-github");
+        System.out.println("name =" + "wangwu");
     }
 
 
