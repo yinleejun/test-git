@@ -9,6 +9,7 @@ public class Test {
         System.out.println("name =" + "lisi");
         System.out.println("20.05.25 branch -- name = " + "junge");
         System.out.println("master --- name =" + "lige");
+        System.out.println("测试回滚！");
     }
 
 }
