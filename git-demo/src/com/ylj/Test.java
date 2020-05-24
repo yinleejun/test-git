@@ -7,6 +7,7 @@ public class Test {
 
     public void getName(){
         System.out.println("name =" + "lisi");
+        System.out.println("master --- name =" + "lige");
     }
 
 }
